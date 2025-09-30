@@ -7,12 +7,12 @@ Nuestra App se trata de un gestor de ingresos personal.
 
 ## Indice
 
-- [:rocket: Introduccion](#:rocket: Introduccion)
-- [:gear: Funciones de la App](#:gear: Funciones de la App)
-- [clipboard: Requisitos](#clipboard: Requisitos)
-- [:package: Instalación ](#:package: Instalación )
-- [:computer: Uso ](#:computer: Uso )
-- [:scroll: Licencia  ](#:scroll: Licencia  )
+- [ntroduccion](#:Introduccion)
+- [Funciones de la App](#Funciones de la App)
+- [Requisitos](#Requisitos)
+- [Instalación](#Instalación )
+- [Uso ](#Uso )
+- [Licencia](#Licencia)
 
 
 ### :rocket: Introduccion
