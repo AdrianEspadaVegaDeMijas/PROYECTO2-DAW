@@ -7,7 +7,7 @@ Nuestra App se trata de un gestor de ingresos personal.
 
 ## Indice
 
-- [ntroduccion](#:Introduccion)
+- [Introduccion](#Introduccion)
 - [Funciones de la App](#Funciones de la App)
 - [Requisitos](#Requisitos)
 - [Instalación](#Instalación )
@@ -103,6 +103,7 @@ A continuación, algunos ejemplos de cómo utilizar la aplicación **FINORA**:
 ---
 Este proyecto está bajo la licencia **MIT**.  
 Consulta el archivo [LICENCIA](LICENCIA) para más información. 
+
 
 
 
