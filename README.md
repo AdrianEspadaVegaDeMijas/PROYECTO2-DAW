@@ -15,11 +15,11 @@ Nuestra App se trata de un gestor de ingresos personal.
 - [Licencia](#licencia)
 
 
-### Introduccion
+### :rocket: Introduccion
 ---
 Con esta App podras controlar tus gastos y hacer un plan de ahorro para planear futuras inversiones o ahorrar una cantidad deseada de dinero para comprarte algo que desees.
 
-### Funciones de la App
+### :gear: Funciones de la App
 ---
 * Plan de ingresos y gastos que calcula tu situacion financiera en un tiempo estimado.
 
@@ -27,7 +27,7 @@ Con esta App podras controlar tus gastos y hacer un plan de ahorro para planear 
 
 * Un apartado con notacias e inversiones como (ETFs, Aciones y Criptos), asi podras decidir tu mejor metodo para invertir.
 
-### Requisitos
+### :clipboard: Requisitos
 ---
 Para ejecutar correctamente el proyecto, asegúrate de tener instalado:
 
@@ -37,7 +37,7 @@ Para ejecutar correctamente el proyecto, asegúrate de tener instalado:
 
 * Docker
 
-### Instalación  
+### :package: Instalación  
 ---
 :rocket:
 Sigue estos pasos para instalar y configurar el proyecto en tu equipo:  
@@ -75,7 +75,7 @@ Si quieres usar Docker en lugar de npm/Angular directamente:
     docker-compose up --build
     ```
 
-### Uso  
+### :computer: Uso  
 ---
 A continuación, algunos ejemplos de cómo utilizar la aplicación **FINORA**:  
 
@@ -99,10 +99,11 @@ A continuación, algunos ejemplos de cómo utilizar la aplicación **FINORA**:
    - Revisa las últimas noticias sobre **ETFs, acciones y criptomonedas**.  
    - Evalúa opciones y toma mejores decisiones financieras.
 
-### Licencia  
+### :scroll: Licencia  
 ---
 Este proyecto está bajo la licencia **MIT**.  
 Consulta el archivo [LICENCIA](LICENCIA) para más información. 
+
 
 
 
